@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Learning Python, SQL, LUA. <br>applied to data science and ML
+I'm Learning Python, SQL, LUA. <br> Applied to data science and ML
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@ I'm Learning Python, SQL, LUA. <br>applied to data science and ML
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nordico95&icon=1&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
